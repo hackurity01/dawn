@@ -18,7 +18,7 @@
     "amazon-cognito-identity-js": "^4.2.1",
     "aws-amplify": "^3.0.8",
     "aws-amplify-react-native": "^4.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-elements": "^1.2.7",
